@@ -6,6 +6,12 @@ Key was created by Emily Struckhoff in TaxonWorks version v0.23.1 using the Dist
 
 [Access the key here](/key.html)
 
+Questions? Contact Holly Tuten (htuten@illinois.edu)
+
+All photographs were taken by Emily Struckhoff, Illinois Natural History Survey Medical Entomology Lab. 
+
+Website Link: https://inhs-mel.github.io/Illinois-Adult-Tick-Key/ 
+
 Sources:
 
 Brinton, E.P., D.E. Beck, and D.M. Allred. 1965. Identification of the adults, nymphs and larvae of ticks of the genus Dermacentor Koch (Ixodidae) in the western United States. Brigham Young University Science Bulletin, Biological Sciences, 5(4): 1-44.
@@ -20,8 +26,3 @@ Pratt, H. D. and C.J. Stojanovich. 1966. Acarina: Illustrated key to some common
 
 TaxonWorks Community. 2022. Taxonworks [software]. Species File Group (maintainers, https://speciesfilegroup.org). Version 0.23.1. Accessible at: https://github.com/SpeciesFileGroup/taxonworks.
 
-
-Questions? Contact Holly Tuten (htuten@illinois.edu)
-All photographs were taken by Emily Struckhoff, Illinois Natural History Survey Medical Entomology Lab. 
-
-Website Link: https://inhs-mel.github.io/Illinois-Adult-Tick-Key/ 
