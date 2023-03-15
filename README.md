@@ -7,6 +7,7 @@ Key was created by Emily Struckhoff in TaxonWorks version v0.23.1 using the Dist
 [Access the key here](/key.html)
 
 Sources:
+
 Brinton, E.P., D.E. Beck, and D.M. Allred. 1965. Identification of the adults, nymphs and larvae of ticks of the genus Dermacentor Koch (Ixodidae) in the western United States. Brigham Young University Science Bulletin, Biological Sciences, 5(4): 1-44.
 
 Egizi, A. M., R.G. Robbins, L. Beati, S. Nava, C.R. Evans, J.L. Occi, and D.M. Fonseca. 2019. A pictorial key to differentiate the recently detected exotic Haemaphysalis longicornis Neumann, 1901 (Acari, Ixodidae) from native congeners in North America. ZooKeys, 818: 117–128. https://doi.org/10.3897/zookeys.818.30448
